@@ -41,6 +41,7 @@ public class Randomproject {
         
         System.out.println("la segunda frase tiene mas caracteres qe la segunda frase o los mismos: " + comparation4);
         
+        System.out.println("añadiremos una nueva frase");
     }
     
 }
